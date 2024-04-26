@@ -1,0 +1,17 @@
+{ 
+    "short_name": "SIES-PWA", "name": "PWA Lab Manual",
+    "icons": [
+        {
+          "src": "assests/AppImages/windows11/SmallTile.scale-100.png",
+          "sizes": "71x71"
+        },
+        {
+          "src": "assests/AppImages/windows11/SmallTile.scale-125.png",
+          "sizes": "89x89"
+        },
+        {
+          "src": "assests/AppImages/windows11/SmallTile.scale-150.png",
+          "sizes": "107x107"
+        }
+    ]
+}
